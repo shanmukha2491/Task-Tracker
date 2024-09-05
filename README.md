@@ -14,7 +14,7 @@ To install the Task-CLI application, follow these steps:
 1. Clone the repository:
 ```
 git clone https://github.com/shanmukha2491/Task-Tracker.git
-cd task-cli
+cd Task-Tracker
 go mod init taskmanager
 ```
 2. Install the dependencies
