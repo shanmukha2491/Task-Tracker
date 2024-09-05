@@ -57,12 +57,12 @@ task-cli add "task name"
 2. Delete a task
 
 ```
-task-cli delete "id of task"
+task-cli delete <id of task>
 ```
 
 3. Update a task
 ```
-task-cli update <id> <updates task name>
+task-cli update <id> <new task name>
 ```
 4. Get all tasks
 
