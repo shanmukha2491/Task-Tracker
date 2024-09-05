@@ -82,7 +82,7 @@ task-cli mark-in-progress <task id>
 task-cli mark-done <task id>
 ```
 
-Contribution
+## Contribution
 Feel free to open issues or pull requests for improvements or bug fixes.
 
 
